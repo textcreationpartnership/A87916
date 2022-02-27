@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter: being a full relation of the siege of Banbury Castle by that valiant and faithfull commander, Colonell Whetham governour of Northampton, now commander in chiefe in that service. With their particular proceeding from the beginning, and how they have taken the church, planted their ordnance, and are battering the castle continually. As also, how they tooke two cavaliers vvhich vvere let downe from the castle, with a letter of great concernment sent from the Governour to Prince Rupert, which was found about them. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87916</idno>
+            <idno type="STC">Wing L1347</idno>
+            <idno type="STC">Thomason E8_9</idno>
+            <idno type="STC">ESTC R6972</idno>
+            <idno type="EEBO-CITATION">99873059</idno>
+            <idno type="PROQUEST">99873059</idno>
+            <idno type="VID">125511</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87916)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125511)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 2:E8[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter: being a full relation of the siege of Banbury Castle by that valiant and faithfull commander, Colonell Whetham governour of Northampton, now commander in chiefe in that service. With their particular proceeding from the beginning, and how they have taken the church, planted their ordnance, and are battering the castle continually. As also, how they tooke two cavaliers vvhich vvere let downe from the castle, with a letter of great concernment sent from the Governour to Prince Rupert, which was found about them. Published by authority.</title>
+                  <author>Whetham, Nathaniel.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Septem. 4. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Banbury, 2. Septemb., 1644.</note>
+                  <note>Attributed to Nathaniel Whetham.  Cf. BM.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Whetham, Nathaniel.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125511:1" rendition="simple:additions"/>
+            <p>A LETTER: BEING A full Relation of the ſiege of <hi>Banbury Castle</hi> by that valiant and faithfull commander, Colonell WHETHAM Governour of <hi>Northampton,</hi> now Commander in chiefe in that ſervice.</p>
+            <p>With their particular proceeding from the the beginning, and how they have taken the Church, planted their Ordnance, and are battering the Caſtle continually.</p>
+            <p>
+               <hi>As alſo,</hi> How they tooke two Cavaliers vvhich vvere let downe from the Caſtle, with a Letter of great concernment ſent from the Governour to Prince <hi>Rupert,</hi> which was found about them.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old baily, Septemb. 4. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:125511:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat I may give you and others ſatiſ<g ref="char:EOLhyphen"/>faction touching the ſiege of <hi>Ban<g ref="char:EOLhyphen"/>bury</hi> caſtle, I muſt tell you that though we have for about a mo<g ref="char:EOLhyphen"/>neths ſpace ſtraytned their quar<g ref="char:EOLhyphen"/>ters, and hindred their forcing the Tax on the Countrey; which grew ſo heavy a preſſure, that they had forborn the payment for divers weeks in many Towns, though threatned to be plundered of all for their neglect. This Caſtle is of more concernement to <hi>Oxford</hi> then any other, for be<g ref="char:EOLhyphen"/>ſides the proviſions of victuals by droves of Sheep and beaſt weekely, it is upon good ground aver'd that for a long time this Garriſon hath payd 18000 <hi>per</hi> weeke to <hi>Oxford,</hi> divers Towns being taxed to more then the yeerely revenue of them; ſo that the taking of this Den of Theeves would much conduce to the ſtraitning of <hi>Oxon.</hi> and give liberty of Trade to <hi>London</hi> from many parts.</p>
+            <pb n="3" facs="tcp:125511:2"/>
+            <p> On Thurſday <hi>Aug.</hi> 22. they came out of the Caſtle with about 80 horſe and fell on a guard of ours who retreating a mile to <hi>Workworth</hi> to their body, as many as took the Alarm followed them, beat them downe the hill, killed their grand rob-Carrier Lieutenant <hi>Midleton</hi> by a Carbine ſhot thorow the braine, and tooke his Cornet one <hi>Smith</hi> a ſtout plunderer, ſlew two others, and took two, and wounded 4 or 5 deſperately, and beate the reſt into the Caſtle.</p>
+            <p>On Sabbath day <hi>Aug.</hi> 25 two Companies of our foot that lay for a guard to the horſe advanced into the Town of <hi>Banbury</hi> and tooke poſſeſſion of the Church about break of day, the enemy not taking any Alarm, untill ſome of our ſouldiers by knocking at divers doores in the Towne to looke for Cavaliers that lay in houſes neere the Caſtle, awakned them. Our foot all this while were un<g ref="char:EOLhyphen"/>loding their Ammunition, and planting their Drakes and Musketeers in the Church; and our Troops were all entered the Town, and ſtood to aſſiſt the foot neere the Church, if need ſhould be. About an houre after day the enemy came out of the Caſtle with about 100 Musketeers, and all the horſe they had; their Musketeers got into gar<g ref="char:EOLhyphen"/>dens and houſes many of them, and ſhot at our
+<pb n="4" facs="tcp:125511:3"/>horſe, and ſlew a horſe or two, which made our horſe to remove to the Towns end; and by this time we had drawn out three ſmall parties of foot to encounter theirs, who made divers waies to the Church; and having ſlain three of them we did by degrees get them into the ſtreets; and ſo drove them into the Caſtle againe, but ſtill they came out in parties, untill about noone they ſaw a ſup<g ref="char:EOLhyphen"/>ply comming toward us from <hi>Northampton,</hi> and then they betooke themſelves to their ſtrength, and never ſtirred out ſince.</p>
+            <p>On the ſame day came two great Guns with ſome more foot and Ammunition from <hi>Northamp<g ref="char:EOLhyphen"/>ton,</hi> and with them Col. <hi>Whetham</hi> the Governour there, Commander in chiefe of this ſervice; on Munday and Tueſday the enemy playd at us from the Caſtle where ever we appeared, to hinder us in our making breſt-workes for our Ordnance or men: they played fiercely at the Church, where we had ſome with long Guns which did much an<g ref="char:EOLhyphen"/>noy them in the Caſtle, and kild divers of their Cattell: on Wedneſday we playd one of our Can<g ref="char:EOLhyphen"/>nons at the wall and made about ſix ſhot, but they with their Cannon brake the Carriage of our piece, ſo that for that night we could do no more, but firſt we battered the wall ſo on the outſide
+<pb n="5" facs="tcp:125511:3"/>that we much weakned it, and beat a hole foure or five yards ſquare. The ſame day Wedneſday <hi>Aug.</hi> 28. there came to our aſſiſtance Colonel <hi>Purefoys</hi> Regiment of horſe, and Col. <hi>Boſwels</hi> Regiment of foot, and with them three great Guns, one carry<g ref="char:EOLhyphen"/>ing 36 pound Bullet, the other two ſomewhat leſſe, 3 Morter-pieces for Granadoes. On Thurſ<g ref="char:EOLhyphen"/>day <hi>Aug.</hi> 29. they playd with their Cannon from the Caſtle to prevent our planting our great pieces. On Friday <hi>Aug.</hi> 30. the enemy fired divers houſes ſtood neere the Caſtle, as they had done the day before, the fire burning fiercely both the daies, about 30 houſes burnt, and the enemy ſtill endeavouring to fire more; All this day they playd fiercely both with Cannon and Muskets from the caſtle at any houſe or place where they ſaw any man appeare, and we likewiſe playd at them; we about noone got our great piece plan<g ref="char:EOLhyphen"/>ted, and playd 8 or 9 times that afternoone, and had our Cannoneere ſlaine with a Drake-bullet at night, and another piece we plaid with at the ſame time, but the enemy with a bullet of twelve pound weight brake one of the wheeles, and ſleightly hurt the cannoneer. The enemy made about 40 cannon-ſhot that day, and ſome thou<g ref="char:EOLhyphen"/>ſands of musket-ſhot, yet killed but that one man,
+<pb n="6" facs="tcp:125511:4"/>and hurt another in the thumbe, we not ſeaſing to ply them with ſmall ſhot as oft as they appea<g ref="char:EOLhyphen"/>red, and with cannon all the afternoone; about noone we plaid the great morter-piece five times with a Granado of above 100 pound waight, twice it fell amongſt them, and tore up the earth and brake as we could deſire it, but what effect it wrought we know not, not having any intelli<g ref="char:EOLhyphen"/>gence from them. On Friday night we wrought to plant the reſt of the pieces, the enemy preven<g ref="char:EOLhyphen"/>ting us the opportunity of doing it by day; We keep them in continuall worke, that ſo they may ſpend their Ammunition, which yet they do free<g ref="char:EOLhyphen"/>ly, as if they hoped we ſhould not lie there long, they pleaſing themſelves with Pr. <hi>Ruperts</hi> com<g ref="char:EOLhyphen"/>ming to their ayd. I have been the more particu<g ref="char:EOLhyphen"/>lar, that you may know we have need of your prayers, and that God may have the praiſes in our great preſervation, ſo many ſhot being made and ſo few ſlaine, or hurt, and that we may account it a mercy worth praiſing God for if ever we be maſter of it, which though we muſt not looke for ſuddenly, yet we need not doubt of if we may have time (though undoubtedly there are not many ſtronger holds in <hi>England,</hi>) our ſouldiers, through Gods mercy being ſupported with courage, as ever I ſaw them in any ſervice.</p>
+            <pb n="7" facs="tcp:125511:4"/>
+            <p> Saturday <hi>Aug.</hi> 31. we tooke two poore tatered rogues without hoſe or ſhooe put over the caſtle-wall early in the morning with intelligence to Pr. <hi>Rupert,</hi> Col. <hi>Greene</hi> the valiant Taylor Gover<g ref="char:EOLhyphen"/>nour of the caſtle having writ a Letter in a ſhred of Paper cloſe written and cut in the middeſt, that if but one of them had been taken we had not known what to have made of it, but having both the pieces I ſhall acquaint you with the ſubſtance of the Letter, which was, that our ſtrength was not above 800 horſe and 700 foot that did be<g ref="char:EOLhyphen"/>leaguer them: that we had drayned three garriſons for them, and that the Townſ-men were now left to keepe our garriſons, he therefore deſired the Prince to come with, or ſend 1500 Horſe and 500 Dragoones betweene <hi>Northampton</hi> and <hi>Ban<g ref="char:EOLhyphen"/>bury,</hi> and bids him not doubt of taking our Guns, and routing our Foot, and then he might be re<g ref="char:EOLhyphen"/>venged on <hi>Northampton</hi> for the other deſigne he miſſed on before. By theſe two meſſengers being examined a part we finde that their chiefe Can<g ref="char:EOLhyphen"/>noneere was ſlaine on Friday, and another of theirs wounded in the eye with a musket-bullet, not like to live; that one of our Granadoes did fire in the caſtle, but did not much hurt.</p>
+            <p>On Sabbath day <hi>Septemb.</hi> 1. we planted our
+<pb n="8" facs="tcp:125511:5"/>three great Guns, having wrought all the night before, we plaid two of them all the morning on the meddow-ſide, the third the great Demi-cannon not being ready untill toward night, we ſhot thorow the Caſtle but made but a ſmall breach yet, but ſuch as it was, and another Gra<g ref="char:EOLhyphen"/>nadoe firing in the Caſtle made them lamentably skreeke out, and ſome vvomen vvould have come forth but vve vvould not ſuffer them; they ſhot from the Caſtle fiercely at our Worke, but yet have done us no hurt, we hope in time we ſhall coole their courage, though vve heare the Gen<g ref="char:EOLhyphen"/>tlemen and Officers have taken the Sacrament not to give or take quarter, and ſome bitter ma<g ref="char:EOLhyphen"/>lignant Papiſts are there that will doe their ut<g ref="char:EOLhyphen"/>moſt to keepe it. The good Lord give us courage; and patience to waight his leaſure, and be content to ſtay for it untill he will give it us in mercy; Which is the deſire of yours, &amp;c.</p>
+            <closer>
+               <dateline>Banbury, <date>2. Septemb. 1644.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>What's materiall you ſhall have as I can ſend it,</p>
+               <closer>
+                  <salute>Vale.</salute>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
